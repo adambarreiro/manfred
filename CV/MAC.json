@@ -1,0 +1,515 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adam",
+      "surnames": "Barreiro Costa",
+      "title": "Software Engineer",
+      "description": "I consider myself a versatile and open-minded software engineer who can learn new technologies and solve problems efficiently, generating deliverables and documentation with a high degree of quality.\n\nMy technical knowledge goes from DevOps best practices, Kubernetes, IaC, CI/CD, and automation to backend development with languages such as Java or Go.\n\nBefore Broadcom acquired VMware, I was happily working in a team that followed a healthy and productive remote culture, collaborating in several open source projects that involved VMware Cloud Foundation Automation and Terraform.\n\nRight now, I'm looking for a new adventure!\nPlease check my profile to know a bit more about me, and thanks for reading! 😄",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/16/a7b066c9-f55a-4c25-b1ee-05732827630e_201804.png",
+        "alt": "201804.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJF3eQUN6LTw0RQgwcS9IMLsg)",
+        "country": "España",
+        "region": "La Rioja",
+        "municipality": "Haro"
+      }
+    },
+    "recommendations": [
+      {
+        "title": "Awesome Go",
+        "type": "other",
+        "URL": "https://github.com/avelino/awesome-go",
+        "summary": "A curated list of awesome Go frameworks, libraries and software\n\n"
+      },
+      {
+        "title": "Learn Go with Tests",
+        "type": "other",
+        "URL": "https://quii.gitbook.io/learn-go-with-tests/",
+        "summary": "Really good website to learn Go"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/adambarreiro"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/adambarreiro"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/2571734/adam-barreiro"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.adambarreiro.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "VMware"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2021-05-01",
+            "finishDate": "2025-12-01",
+            "challenges": [
+              {
+                "description": "• Collaborating in the development, automation and CI/CD of the open source Terraform provider for VMware Cloud Foundation Automation.\n• Collaborating in the development, automation and CI/CD of the open source Terraform provider for VMware Cloud Director.\n• Collaborating in the development, automation and CI/CD of the open source Go SDK for VMware Cloud Director.\n• Collaborated in the development of the adapter that connects VMware Aria (formerly vRealize Automation) with VMware Cloud Director."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Go",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "adidas"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2017-04-01",
+            "finishDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "• Established a modern CI/CD landscape in three CRM area projects, moving from VMs to Docker and Kubernetes, SVN to Git, and manual deployments to Jenkins.\n• Trained colleagues on these technologies.\n• Built from scratch the whole CI/CD landscape for Creators Club, the Adidas loyalty program, following a GitOps approach, that decreased deploy time from ~3h to ~5min and time to market from 4 weeks to 1 week.\n• Built the monitoring setup for Creators Club from scratch. Oncall establishment with OpsGenie and automated response to outages with Jenkins.\n• Developed Spring Boot services in an event-driven architecture with Kafka for Creators Club.\n• Participated in the migration of Creators Club services and their database from on-premises to AWS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT Data"
+        },
+        "roles": [
+          {
+            "name": "Solutions Analyst",
+            "startDate": "2015-04-01",
+            "finishDate": "2017-04-01",
+            "challenges": [
+              {
+                "description": "• Contributed to adding new features to a Java framework for Caixabank.\n• Contributed to adding new components to a UI framework made with vanilla JS\nfor Caixabank."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini"
+        },
+        "roles": [
+          {
+            "name": "Junior Consultant",
+            "startDate": "2014-06-01",
+            "finishDate": "2015-04-01",
+            "challenges": [
+              {
+                "description": "• Contributed to releasing new features in Carrefour eCommerce, like a brand-new shopping cart or \"click and collect\".\n• Started from scratch a website for E·ON, to ease client management and acquisition.\n• Contributed to migrating Carrefour eCommerce to a newer version of Oracle ATG."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Go",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Akamai Web Performance Foundations",
+        "startDate": "2018-11-01",
+        "institution": {
+          "name": "Akamai",
+          "description": "Earners of the Akamai Web Performance Foundations badge have successfully completed the Akamai Web Performance Solutions course. This course, designed to familiarize participants with the Akamai Web Performance portfolio, provides an overview of the various products and teaches how to configure ION. Upon completion, individuals are able to create a new configuration from scratch, determine and configure caching strategies, as well as more advanced acceleration features.",
+          "URL": "https://www.credly.com/badges/a07092fa-dcac-4058-aef7-834fbca6f45e/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/d10abd6a-3df7-4b9e-8040-2e19f337865e_wpf.png",
+            "alt": "WPF.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "BS in Mathematics",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "Universidad Nacional de Educación a Distancia",
+          "description": "4-year degree, 240 ECTS credits.\nCurrently studying as a hobby when possible :D",
+          "URL": "https://www.uned.es/universidad/inicio.html",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/737f1006-81fa-405a-ae8b-8421f71aba9c_1631320049127.jpg",
+            "alt": "1631320049127.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CKA: Certified Kubernetes Administrator",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "The Linux Foundation",
+          "description": "Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Administrator. Earners demonstrated proficiency in Application Lifecycle Management, Installation, Configuration & Validation, Core Concepts, Networking, Scheduling, Security, Cluster Maintenance, Logging / Monitoring, Storage, and Troubleshooting",
+          "URL": "https://www.credly.com/badges/221876a9-49d2-4671-907b-f6eafbdcb8d0/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/bac94a09-f61d-451c-bf44-b967eb671c39_cka_from_cncfsite__2.png",
+            "alt": "cka_from_cncfsite__281_29.png"
+          }
+        },
+        "finishDate": "2024-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CKAD: Certified Kubernetes Application Developer",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "The Linux Foundation",
+          "description": "Earners of this designation demonstrated the skills, knowledge and competencies to perform the responsibilities of a Kubernetes Application Developer. Earners are able to define application resources and use core primitives to build, monitor, and troubleshoot scalable applications and tools in Kubernetes. The skills and knowledge demonstrated by earners include Core Concepts, Configuration, Multi-Container Pods, Observability, Pod Design, Services & Networking, State Persistence.",
+          "URL": "https://www.credly.com/badges/8be73518-3bca-41f9-8c2e-1b8f2d35c0b1/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/84ac127d-5ab2-44d9-ae9c-7e831721bdbd_blob.png",
+            "alt": "blob.png"
+          }
+        },
+        "finishDate": "2024-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "HashiCorp Certified: Terraform Associate (002)",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "HashiCorp",
+          "description": "Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform. They understand and can utilize Terraform according to the certification objectives. Additionally, they understand why enterprises choose to extend Terraform Community with Terraform Enterprise to solve business critical objectives.Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform. They understand and can utilize Terraform according to the certification objectives. Additionally, they understand why enterprises choose to extend Terraform Community with Terraform Enterprise to solve business critical objectives.",
+          "URL": "https://www.credly.com/badges/d60c0b49-16a2-48ef-b2aa-13ad5ab44c9f/linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/3e52f187-4ea2-4172-b8f8-8f2004cfb0e0_blob.png",
+            "alt": "blob.png"
+          }
+        },
+        "finishDate": "2024-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Terraform",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "MSc in Computer Science Engineering",
+        "startDate": "2008-09-01",
+        "institution": {
+          "name": "University of Zaragoza",
+          "description": "5-year degree, 351.5 LRU credits (~281.2 ECTS credits)",
+          "URL": "https://zaguan.unizar.es/record/13567?ln=en",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/24deb335-e915-4fc4-8d8a-c41d2eb94389_universidad_de_zarag.jpg",
+            "alt": "universidad_de_zaragoza_logo.jpg"
+          }
+        },
+        "finishDate": "2014-05-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Oracle Certified Associate, Java SE 8 Programmer",
+        "startDate": "2017-02-01",
+        "institution": {
+          "name": "Oracle",
+          "description": "An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies.",
+          "URL": "https://www.credly.com/badges/b01be27e-15a1-41f4-b416-cedd0bd705c4/public_url",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/11/6060cd48-9fb5-4a87-a0c5-1ede8fc5807f_oracle_associates_ba.png",
+            "alt": "Oracle_Associates_Badge__1_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good written communication",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/adambarreiro",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/2571734/adam-barreiro",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/adambarreiro",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "Jenkins",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Release Engineer",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Go",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My ideal job would allow me to contribute to a product or service that’s truly innovative and has a meaningful impact on customers’ lives, whether in eCommerce solutions or more technical domains like virtualization or cloud technologies.\n\nI’d love to work for a company that embraces a fully asynchronous and remote-first mindset, with rich, well-maintained documentation, minimal micromanagement, and a culture that avoids unnecessary meetings and, above all, trusts its employees.\n\nThroughout my career, I’ve worked primarily as an individual contributor, but I’ve also had the opportunity to mentor others (something I genuinely enjoy).",
+    "goodPractices": "**Technical skills**\n\nI strive to apply clean-code principles whenever they genuinely add value. I work with TDD, DDD, SOLID, KISS and many other \"fancy\" acronyms, but ultimately I see them as tools for achieving a balanced trade-off between maintainability, performance and readability. For me, good engineering is about common sense and choosing the right approach for the problem at hand.\n\n**Soft skills**\n\nHaving spent the last years working fully remotely, I’ve developed strong asynchronous-communication habits:\n\n- I avoid ad-hoc or unnecessary meetings whenever possible, if something can be an email (or a message), it should be.\n\n- I write clear and meaningful messages in Slack-like tools. Starting a conversation with a simple \"Hi\" and waiting is usually counterproductive (see [https://nohello.net](https://nohello.net))\n\n- I maintain comprehensive and up-to-date documentation: README files, technical notes, Confluence pages, and anything needed to keep the team aligned.",
+    "bookmarks": [
+      {
+        "name": "Awesome Go"
+      },
+      {
+        "name": "Learn Go with Tests"
+      }
+    ]
+  }
+}
