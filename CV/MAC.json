@@ -187,7 +187,11 @@
       },
       {
         "organization": {
-          "name": "Capgemini"
+          "name": "Capgemini",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/17/89cc8b1d-0e1b-4067-9b56-8e2f31d6f512_capgemini_logo.jpg",
+            "alt": "capgemini_logo.jpg"
+          }
         },
         "roles": [
           {
