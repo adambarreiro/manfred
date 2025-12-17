@@ -67,7 +67,7 @@
             "finishDate": "2025-12-01",
             "challenges": [
               {
-                "description": "• Collaborating in the development, automation and CI/CD of the open source Terraform provider for VMware Cloud Foundation Automation.\n• Collaborating in the development, automation and CI/CD of the open source Terraform provider for VMware Cloud Director.\n• Collaborating in the development, automation and CI/CD of the open source Go SDK for VMware Cloud Director.\n• Collaborated in the development of the adapter that connects VMware Aria (formerly vRealize Automation) with VMware Cloud Director."
+                "description": "• Key contributor to the development of the adapter that connects vRealize Automation with VMware Cloud Director to use it as a cloud provider.\n• Contributed to the development, automation and testing of the open source Terraform provider for VMware Cloud Director and VMware Cloud Foundation Automation, as well as the underlying Go SDK for VMware Cloud Director.\n• Implemented an extension of VMware Cloud Foundation Automation to flawlessly migrate virtual machines from VMware Cloud Director."
               }
             ],
             "competences": [
