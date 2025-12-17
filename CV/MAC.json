@@ -156,7 +156,11 @@
       },
       {
         "organization": {
-          "name": "NTT Data"
+          "name": "everis (NTT Data)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/17/38f012ab-2991-4aff-9bac-b1444a1102a2_everis_is_nttdata_lo.jpg",
+            "alt": "everis_is_nttdata_logo.jpg"
+          }
         },
         "roles": [
           {
