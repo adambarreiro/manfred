@@ -58,7 +58,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "VMware"
+          "name": "VMware",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/17/99695a16-d037-4b05-85f1-e57c8c3d8f25_vmware_logo.jpg",
+            "alt": "vmware_logo.jpg"
+          }
         },
         "roles": [
           {
