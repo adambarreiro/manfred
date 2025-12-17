@@ -109,7 +109,11 @@
       },
       {
         "organization": {
-          "name": "adidas"
+          "name": "adidas",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/17/6b769d4c-8872-49d9-aa7f-23f038c59665_adidas_logo.jpg",
+            "alt": "adidas_logo.jpg"
+          }
         },
         "roles": [
           {
